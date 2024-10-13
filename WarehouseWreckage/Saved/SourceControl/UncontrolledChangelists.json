@@ -5,7 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/udemy/UE/Warehouse wreckage/Warehouse_wreckage/WarehouseWreckage/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+				"D:/udemy/UE/Warehouse wreckage/Warehouse_wreckage/WarehouseWreckage/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/udemy/UE/Warehouse wreckage/Warehouse_wreckage/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap",
+				"D:/udemy/UE/Warehouse wreckage/Warehouse_wreckage/WarehouseWreckage/Content/BP_Projectile.uasset",
+				"D:/udemy/UE/Warehouse wreckage/Warehouse_wreckage/WarehouseWreckage/Content/levels/NewMap.umap"
 			]
 		}
 	]
